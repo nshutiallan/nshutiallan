@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nshutiallan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning variety using of Github and some other frameworks
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :Email:nshutiallan00@gmail.com
 Telephone:+250788479408
 
